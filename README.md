@@ -11,3 +11,4 @@
 28.07.2021 - added new area Alley + chair
 chair got new model
 change stuff maze haha yes
+bruh
